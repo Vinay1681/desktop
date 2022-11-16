@@ -1,0 +1,185 @@
+.logo{
+  margin: 40px 60px;
+}
+
+
+body{
+  position: relative;
+}
+
+
+.intro{
+  width: 30%;
+  margin-left: 60px;
+  position: absolute;
+  left:200px;
+  top:440px;
+  font-family:Montserrat,sans-serif;
+}
+
+
+.top-heading{
+  margin-left: 60px;
+  width: 10%;
+  font-family:Montserrat,sans-serif;
+}
+
+
+.desktop-img{
+  width: 700px;
+  height: 300px;
+  margin-top: 0px;
+  margin-left: 60px;
+}
+
+
+ul {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding:0;
+  overflow: hidden;
+}
+
+
+li {
+  float: right;
+  padding-top: 40px;
+  margin-right: 60px;
+  font-size: 12px;
+}
+
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 6px 8px;
+  text-decoration: none;
+}
+
+
+.middle-container{
+  background-color: black;
+  float: right;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 40px;
+  width: 20%;
+  margin-right: 60px;
+}
+
+
+.new-heading{
+  color: hsl(35, 77%, 62%);
+  font-family: Montserrat,sans-serif;
+}
+
+
+h3{
+  color: white;
+  font-family: Merriweather,sans-serif;
+}
+
+
+p{
+  color: grey;
+  font-family: Merriweather,sans-serif;
+}
+
+
+.btn {
+  background: #de2c2c;
+  background-image: -webkit-linear-gradient(top, #de2c2c, #f76067);
+  background-image: -moz-linear-gradient(top, #de2c2c, #f76067);
+  background-image: -ms-linear-gradient(top, #de2c2c, #f76067);
+  background-image: -o-linear-gradient(top, #de2c2c, #f76067);
+  background-image: linear-gradient(to bottom, #de2c2c, #f76067);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: absolute;
+  left:250px;
+  top:530px;
+}
+
+
+.btn:hover {
+  background: #90ebeb;
+  background-image: -webkit-linear-gradient(top, #90ebeb, #7aaacc);
+  background-image: -moz-linear-gradient(top, #90ebeb, #7aaacc);
+  background-image: -ms-linear-gradient(top, #90ebeb, #7aaacc);
+  background-image: -o-linear-gradient(top, #90ebeb, #7aaacc);
+  background-image: linear-gradient(to bottom, #90ebeb, #7aaacc);
+  text-decoration: none;
+}
+
+
+.retro{
+  width: 290px;
+  height: 400px;
+}
+
+
+.retro-pc{
+  height: 180px;
+  width: 100px;
+  position: absolute;
+  top: 620px;
+}
+
+
+.retro-intro{
+  position: absolute;
+  left: 190px;
+  top: 600px;
+  width: 10%;
+  font-family: Merriweather,sans-serif;
+}
+
+
+.laptops-img{
+  height: 180px;
+  width: 100px;
+  position: absolute;
+  top: 620px;
+  left: 480px;
+}
+
+
+.laptops-intro{
+  position: absolute;
+  left: 610px;
+  top: 600px;
+  width: 10%;
+  font-family: Merriweather,sans-serif;
+}
+
+
+.gaming-img{
+  height: 180px;
+  width: 100px;
+  position: absolute;
+  top: 620px;
+  left: 900px;
+}
+
+
+.gaming-intro{
+  position: absolute;
+  right: 320px;
+  top: 600px;
+  width: 10%;
+  font-family: Merriweather,sans-serif;
+}
+
+
+.bottom-container{
+  margin-top: 60px;
+  margin-left: 60px;
+}
